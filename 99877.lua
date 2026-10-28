@@ -1,6 +1,6 @@
 local CFG = {
-    Host     = "http://127.0.0.1:8787/api",
-    Token    = "9372103bef5e63e4421dfbe6a74f0befa453ebab673a18a0f9f14c5eae0a807f",
+    Host     = "http://ansnkey.top:8787/api",
+    Token    = "1aca110783abf4b694fc9ed35b879dffbe333af274f1322bc3d11c9396bc4af8",
     Interval = 2,
     Version  = "1.6",
     KickNotice = false,
